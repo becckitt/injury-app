@@ -1,0 +1,450 @@
+[
+  {
+    "Team": "Dallas Mavericks",
+    "Player": "Deron Williams",
+    "Date": "Sat Mar 26 2016",
+    "Type": "Abdominal",
+    "Note": "Williams sustained a lower-abdominal strain and is questionable to play Sunday against the Timberwolves."
+  },
+  {
+    "Team": "Minnesota Timberwolves",
+    "Player": "Nikola Pekovic",
+    "Date": "Mon Feb 1 2016",
+    "Type": "Achilles",
+    "Note": "Pekovic is sidelined with an achilles injury and there is no timetable for his recovery."
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Player": "Mike Conley",
+    "Date": "Mon Mar 7 2016",
+    "Type": "Achilles",
+    "Note": "Conley is expected to miss up to four weeks with tendinitis in his Achilles."
+  },
+  {
+    "Team": "Washington Wizards",
+    "Player": "Alan Anderson",
+    "Date": "Mon Mar 21 2016",
+    "Type": "Ankle",
+    "Note": "Anderson has been sidelined with a lingering ankle injury and is questionable to return Sunday against the Clippers."
+  },
+  {
+    "Team": "Utah Jazz",
+    "Player": "Alec Burks",
+    "Date": "Sun Dec 27 2015",
+    "Type": "Ankle",
+    "Note": "Burks is recovering from a left ankle sprain as well as a concussion. He will not play Friday against the Timberwolves."
+  },
+  {
+    "Team": "Los Angeles Clippers",
+    "Player": "Paul Pierce",
+    "Date": "Tue Mar 29 2016",
+    "Type": "Ankle",
+    "Note": "Pierce will miss an undetermined amount of time after suffering a right ankle sprain."
+  },
+  {
+    "Team": "Golden State Warriors",
+    "Player": "Andre Iguodala",
+    "Date": "Sat Mar 12 2016",
+    "Type": "Ankle",
+    "Note": "Iguodala is expected to miss a few games due to a left ankle sprain."
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Player": "Spencer Dinwiddie",
+    "Date": "Wed Feb 24 2016",
+    "Type": "Ankle",
+    "Note": "Dinwiddie is sidelined with a bone bruise in his ankle and is questionable to be available for Saturday's game against the Bulls."
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Player": "Danilo Gallinari",
+    "Date": "Sat Feb 27 2016",
+    "Type": "Ankle",
+    "Note": "Gallinari has two torn lateral ligaments in his right ankle and is expected to be shut down for the remainder of the season."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Norris Cole",
+    "Date": "Wed Mar 9 2016",
+    "Type": "Back",
+    "Note": "Cole has been sidelined due to a lower-back injury and is questionable to return Sunday against the Nets."
+  },
+  {
+    "Team": "Chicago Bulls",
+    "Player": "Cameron Bairstow",
+    "Date": "Sat Mar 5 2016",
+    "Type": "Back",
+    "Note": "Bairstow has been sidelined with a back injury and there is no timetable for a return."
+  },
+  {
+    "Team": "Chicago Bulls",
+    "Player": "Derrick Rose",
+    "Date": "Tue Mar 29 2016",
+    "Type": "Elbow",
+    "Note": "Rose exited the last game due to a left elbow contusion and is not expected to suit up Saturday against the Pistons."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Jrue Holiday",
+    "Date": "Mon Mar 28 2016",
+    "Type": "Eye",
+    "Note": "Holiday has been diagnosed with a right inferior orbital wall fracture and will miss the remainder of the season."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Eric Gordon",
+    "Date": "Sat Mar 5 2016",
+    "Type": "Finger",
+    "Note": "Gordon had surgery to repair a fractured right ring finger and will miss the remainder of the season."
+  },
+  {
+    "Team": "Sacramento Kings",
+    "Player": "Marco Belinelli",
+    "Date": "Sat Mar 26 2016",
+    "Type": "Foot",
+    "Note": "Belinelli has missed the last four games with a sore right foot and is questionable to return Saturday against the Nuggets."
+  },
+  {
+    "Team": "Phoenix Suns",
+    "Player": "T.J. Warren",
+    "Date": "Sun Jan 31 2016",
+    "Type": "Foot",
+    "Note": "Warren suffered a broken foot and will miss the remainder of the season."
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Player": "Joel Embiid",
+    "Date": "Sat Jul 11 2015",
+    "Type": "Foot",
+    "Note": "Embiid is recovering from foot surgery and will not return this season."
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Player": "Marc Gasol",
+    "Date": "Sun Feb 7 2016",
+    "Type": "Foot",
+    "Note": "Gasol underwent surgery to repair a non-displaced Type II fracture of the navicular bone in his right foot and is expected to miss four-to-six months."
+  },
+  {
+    "Team": "Indiana Pacers",
+    "Player": "Ty Lawson",
+    "Date": "Thu Mar 31 2016",
+    "Type": "Foot",
+    "Note": "Lawson has a foot injury and is questionable to play Saturday against the 76ers."
+  },
+  {
+    "Team": "Detroit Pistons",
+    "Player": "Jodie Meeks",
+    "Date": "Wed Oct 28 2015",
+    "Type": "Foot",
+    "Note": "Meeks has been sidelined since October with a right foot injury and is in danger of missing the remainder of the season."
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Player": "P.J. Hairston",
+    "Date": "Mon Mar 14 2016",
+    "Type": "Groin",
+    "Note": "Hairston is sidelined with a left groin strain and there is no timetable for his return."
+  },
+  {
+    "Team": "Sacramento Kings",
+    "Player": "Omri Casspi",
+    "Date": "Sat Apr 2 2016",
+    "Type": "Hamstring",
+    "Note": "Casspi suffered a strained right hamstring during the last game and is questionable Saturday against the Nuggets."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Ryan Anderson",
+    "Date": "Sun Mar 20 2016",
+    "Type": "Hernia",
+    "Note": "Anderson has been diagnosed with a sports hernia and could be shut down for the remainder of the season."
+  },
+  {
+    "Team": "Milwaukee Bucks",
+    "Player": "Michael Carter-Williams",
+    "Date": "Mon Feb 29 2016",
+    "Type": "Hip",
+    "Note": "Carter-Williams will have surgery to repair a torn labrum in his left hip and will miss the remainder of the season."
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Player": "Wilson Chandler",
+    "Date": "Fri Oct 23 2015",
+    "Type": "Hip",
+    "Note": "Chandler has undergone season-ending hip surgery."
+  },
+  {
+    "Team": "Atlanta Hawks",
+    "Player": "Tiago Splitter",
+    "Date": "Mon Feb 1 2016",
+    "Type": "Hip",
+    "Note": "Splitter will miss the remainder of the season after he had surgery to repair a hip injury."
+  },
+  {
+    "Team": "Portland Trail Blazers",
+    "Player": "Chris Kaman",
+    "Date": "Mon Mar 28 2016",
+    "Type": "Illness",
+    "Note": "Kaman has missed the last two games due to an illness and is questionable to play Saturday against the Heat."
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Player": "Nick Young",
+    "Date": "Sun Mar 27 2016",
+    "Type": "Illness",
+    "Note": "Young has sat out the last three games due to a case of gastroenteritis and is questionable to be available to play against the Celtics on Sunday."
+  },
+  {
+    "Team": "Houston Rockets",
+    "Player": "Terrence Jones",
+    "Date": "Fri Mar 4 2016",
+    "Type": "Illness",
+    "Note": "Jones is sidelined with a respiratory illness and there is no timetable for a return."
+  },
+  {
+    "Team": "Denver Nuggets",
+    "Player": "Jusuf Nurkic",
+    "Date": "Mon Mar 28 2016",
+    "Type": "Illness",
+    "Note": "Nurkic has missed the last three games due to an illness and is questionable to play Saturday against the Kings."
+  },
+  {
+    "Team": "Utah Jazz",
+    "Player": "Derrick Favors",
+    "Date": "Wed Mar 30 2016",
+    "Type": "Knee",
+    "Note": "Favors exited the last game due to right knee soreness and is questionable to play Friday against the Timberwolves."
+  },
+  {
+    "Team": "Utah Jazz",
+    "Player": "Dante Exum",
+    "Date": "Wed Aug 5 2015",
+    "Type": "Knee",
+    "Note": "Exum suffered a torn ACL in his left knee and will miss the entire 2015-16 season."
+  },
+  {
+    "Team": "Toronto Raptors",
+    "Player": "Luis Scola",
+    "Date": "Thu Mar 31 2016",
+    "Type": "Knee",
+    "Note": "Scola missed the last game due to a knee injury and is questionable to play Saturday against the Spurs."
+  },
+  {
+    "Team": "Toronto Raptors",
+    "Player": "DeMarre Carroll",
+    "Date": "Mon Jan 4 2016",
+    "Type": "Knee",
+    "Note": "Carroll underwent arthroscopic surgery on his right knee in January but could begin practicing in the near future."
+  },
+  {
+    "Team": "Phoenix Suns",
+    "Player": "Eric Bledsoe",
+    "Date": "Sat Dec 26 2015",
+    "Type": "Knee",
+    "Note": "Bledsoe had surgery to repair a torn meniscus and will miss the remainder of the season."
+  },
+  {
+    "Team": "Philadelphia 76ers",
+    "Player": "Nerlens Noel",
+    "Date": "Wed Mar 23 2016",
+    "Type": "Knee",
+    "Note": "Noel has missed the last five games due to a right knee contusion and is questionable to return Saturday against the Pacers."
+  },
+  {
+    "Team": "New York Knicks",
+    "Player": "Tony Wroten",
+    "Date": "Thu Mar 17 2016",
+    "Type": "Knee",
+    "Note": "Wroten will not play this season due to a knee injury."
+  },
+  {
+    "Team": "New York Knicks",
+    "Player": "Lance Thomas",
+    "Date": "Tue Mar 8 2016",
+    "Type": "Knee",
+    "Note": "Thomas is sidelined with a sore left knee and will miss an undetermined amount of time."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Quincy Pondexter",
+    "Date": "Fri Oct 23 2015",
+    "Type": "Knee",
+    "Note": "Pondexter had surgery to repair his left knee and will miss the remainder of the season."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Tyreke Evans",
+    "Date": "Wed Jan 27 2016",
+    "Type": "Knee",
+    "Note": "Evans had surgery to repair a right knee injury and will miss the remainder of the season."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Anthony Davis",
+    "Date": "Fri Mar 18 2016",
+    "Type": "Knee",
+    "Note": "Davis had surgery to repair his left knee and a torn labrum in his left shoulder. He will miss the remainder of the season."
+  },
+  {
+    "Team": "Minnesota Timberwolves",
+    "Player": "Kevin Garnett",
+    "Date": "Sat Jan 23 2016",
+    "Type": "Knee",
+    "Note": "Garnett continues to deal with a right knee injury and is in danger of missing the remainder of the season."
+  },
+  {
+    "Team": "Milwaukee Bucks",
+    "Player": "Steve Novak",
+    "Date": "Sun Feb 28 2016",
+    "Type": "Knee",
+    "Note": "Novak suffered a sprained left MCL and will miss the remainder of the season."
+  },
+  {
+    "Team": "Milwaukee Bucks",
+    "Player": "Jerryd Bayless",
+    "Date": "Wed Mar 30 2016",
+    "Type": "Knee",
+    "Note": "Bayless missed the last game due to a hyper-extended right knee and is questionable to play Sunday against the Bulls."
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Player": "Brandan Wright",
+    "Date": "Sun Feb 28 2016",
+    "Type": "Knee",
+    "Note": "Wright suffered a Grade 1 sprained MCL in his right knee and there is no timetable for a return."
+  },
+  {
+    "Team": "Memphis Grizzlies",
+    "Player": "Jordan Adams",
+    "Date": "Sun Nov 8 2015",
+    "Type": "Knee",
+    "Note": "Adams had surgery to repair his right knee and will miss an undetermined amount of time."
+  },
+  {
+    "Team": "Golden State Warriors",
+    "Player": "Festus Ezeli",
+    "Date": "Tue Jan 26 2016",
+    "Type": "Knee",
+    "Note": "Ezeli is recovering from arthroscopic surgery on his left knee and is expected to return to the lineup next week."
+  },
+  {
+    "Team": "Dallas Mavericks",
+    "Player": "Chandler Parsons",
+    "Date": "Fri Mar 18 2016",
+    "Type": "Knee",
+    "Note": "Parsons had surgery to repair a right knee injury and is expected to miss the remainder of the season. He could return during the second round of the postseason."
+  },
+  {
+    "Team": "Brooklyn Nets",
+    "Player": "Jarrett Jack",
+    "Date": "Sat Jan 2 2016",
+    "Type": "Knee",
+    "Note": "Jack had surgery to repair a torn ACL and will miss the remainder of the season."
+  },
+  {
+    "Team": "Milwaukee Bucks",
+    "Player": "O.J. Mayo",
+    "Date": "Wed Mar 9 2016",
+    "Type": "Leg",
+    "Note": "Mayo will miss the remainder of the season with a fractured leg."
+  },
+  {
+    "Team": "Miami Heat",
+    "Player": "Chris Bosh",
+    "Date": "Thu Mar 10 2016",
+    "Type": "Leg",
+    "Note": "Bosh has recovered from blood clots in his leg and has resumed basketball activities. He is hopeful to return to action at some point this season."
+  },
+  {
+    "Team": "Miami Heat",
+    "Player": "Dwyane Wade",
+    "Date": "Fri Apr 1 2016",
+    "Type": "Neck",
+    "Note": "Wade missed the last game due to a neck injury and is not expected to play Saturday against the Trail Blazers."
+  },
+  {
+    "Team": "New York Knicks",
+    "Player": "Jose Calderon",
+    "Date": "Wed Mar 30 2016",
+    "Type": "Quadricep",
+    "Note": "Calderon missed the last game due to a right quad contusion and is questionable to play Saturday against the Pacers."
+  },
+  {
+    "Team": "New Orleans Pelicans",
+    "Player": "Alonzo Gee",
+    "Date": "Mon Mar 28 2016",
+    "Type": "Quadricep",
+    "Note": "Gee suffered a complete rupture of the right proximal rectus femoris and will miss the remainder of the season."
+  },
+  {
+    "Team": "Los Angeles Clippers",
+    "Player": "Blake Griffin",
+    "Date": "Sun Dec 27 2015",
+    "Type": "Quadricep",
+    "Note": "Griffin has been cleared for all basketball activities and will begin to serve his four-game suspension. He is eligible to return Sunday against the Wizards."
+  },
+  {
+    "Team": "Chicago Bulls",
+    "Player": "Taj Gibson",
+    "Date": "Tue Mar 29 2016",
+    "Type": "Ribs",
+    "Note": "Gibson missed the last game with a rib contusion but is expected to play against the Pistons on Saturday."
+  },
+  {
+    "Team": "Portland Trail Blazers",
+    "Player": "Meyers Leonard",
+    "Date": "Wed Mar 16 2016",
+    "Type": "Shoulder",
+    "Note": "Leonard suffered a dislocated left shoulder and will miss the remainder of the season."
+  },
+  {
+    "Team": "Miami Heat",
+    "Player": "Tyler Johnson",
+    "Date": "Sat Jan 30 2016",
+    "Type": "Shoulder",
+    "Note": "Johnson had surgery to repair the rotator cuff on his left shoulder and will miss the remainder of the season."
+  },
+  {
+    "Team": "Los Angeles Lakers",
+    "Player": "Kobe Bryant",
+    "Date": "Tue Mar 29 2016",
+    "Type": "Shoulder",
+    "Note": "Bryant left the last game with left shoulder soreness and is questionable to suit up Sunday against the Celtics."
+  },
+  {
+    "Team": "Dallas Mavericks",
+    "Player": "Jeremy Evans",
+    "Date": "Mon Mar 14 2016",
+    "Type": "Shoulder",
+    "Note": "Evans had surgery on his injured right shoulder injury and will miss the remainder of the season."
+  },
+  {
+    "Team": "Chicago Bulls",
+    "Player": "Joakim Noah",
+    "Date": "Fri Jan 15 2016",
+    "Type": "Shoulder",
+    "Note": "Noah had surgery on his separated shoulder for a second time and will miss the remainder of the season."
+  },
+  {
+    "Team": "Charlotte Hornets",
+    "Player": "Michael Kidd-Gilchrist",
+    "Date": "Wed Feb 10 2016",
+    "Type": "Shoulder",
+    "Note": "Kidd-Gilchrist will undergo season-ending surgery to repair a torn labrum in his right shoulder."
+  },
+  {
+    "Team": "Sacramento Kings",
+    "Player": "DeMarcus Cousins",
+    "Date": "Thu Mar 31 2016",
+    "Type": "Suspension",
+    "Note": "Cousins has been suspended by the NBA after picking up his 16th technical foul of the season. He is eligible to return Saturday against the Nuggets."
+  },
+  {
+    "Team": "Indiana Pacers",
+    "Player": "Rodney Stuckey",
+    "Date": "Fri Apr 1 2016",
+    "Type": "Wrist",
+    "Note": "Stuckey is questionable to play Saturday against the 76ers due to an injured wrist."
+  }
+]
