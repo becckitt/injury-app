@@ -11,14 +11,18 @@
 
 <body ng-app="InjuryApp">
   <div class="main" ng-controller="MainController">
-    <div class="test">
+    <div class="test" ng-repeat="injury in injuries">
+      {{ injury }}
     </div>
   </div>
 
   <!-- Modules -->
-  <script src = "js/app.js"></script>
+  <script src= "js/app.js"></script>
 
   <!-- Controllers -->
-  <script src = "js/controllers/MainController.js"></script>
+  <script src= "js/controllers/MainController.js"></script>
+
+  <!-- Services -->
+  <script src= "js/services/injuries.js"></script>
 </body>
 </html>
