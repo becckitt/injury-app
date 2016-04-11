@@ -1,4 +1,16 @@
+.body-background {
+  height: 1300px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.body-background img {
+  height: 1300px;
+}
+
 .occurrence-circle {
+  position: relative;
   background-color: rgba(255,0,0,.6); 
   border-radius: 50%;
 }

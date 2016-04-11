@@ -12,9 +12,12 @@
 
 <body ng-app="InjuryApp">
   <div class="main" ng-controller="MainController">
+    <div class="body-background">
+      <img src="img/man.svg">
+    </div>
     <div class="body-part-injuries" ng-repeat="(bodypart, count) in injuriesByBodyPart">
       <h2>{{ bodypart }}: {{ count }}</h2>
-      <div class="occurrence-circle" style="width: {{ circleDiameter(count) }}px; height: {{ circleDiameter(count) }}px;">&nbsp;</div>
+      <div class="occurrence-circle {{ bodypart | lowercase }}" style="width: {{ circleDiameter(count) }}px; height: {{ circleDiameter(count) }}px;">&nbsp;</div>
     </div>
   </div>
 
