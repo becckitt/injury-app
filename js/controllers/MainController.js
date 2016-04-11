@@ -13,5 +13,27 @@ app.controller('MainController', ['$scope', 'injuryList', function($scope, injur
       });
     }
     $scope.injuries = formattedInjuries;
+    $scope.injuriesByTeam = groupBy($scope.injuries, "team");
+    $scope.injuriesByBodyPart = groupBy($scope.injuries, "type");
+    $scope.circleDiameter = function(count) {
+      return count * 10;
+    }
+  })
+  .error(function(err) {
+    return err;
   });
 }]);
+
+function groupBy(injuries, criteria) {
+  var groupedInjuries = {};
+  var inj;
+  for (var i = 0; i < injuries.length; i++) {
+    inj = injuries[i];
+    if (groupedInjuries[inj[criteria]]) {
+      groupedInjuries[inj[criteria]]++;
+    } else {
+      groupedInjuries[inj[criteria]] = 1;
+    }
+  }
+  return groupedInjuries;
+}

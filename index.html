@@ -2,7 +2,8 @@
 <html lang="en">
 
 <head>
-  <script src = "http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="css/index.css">
   <meta charset="UTF-8">
   
   <title> Injury App </title>
@@ -11,8 +12,9 @@
 
 <body ng-app="InjuryApp">
   <div class="main" ng-controller="MainController">
-    <div class="test" ng-repeat="injury in injuries">
-      {{ injury }}
+    <div class="body-part-injuries" ng-repeat="(bodypart, count) in injuriesByBodyPart">
+      <h2>{{ bodypart }}: {{ count }}</h2>
+      <div class="occurrence-circle" style="width: {{ circleDiameter(count) }}px; height: {{ circleDiameter(count) }}px;">&nbsp;</div>
     </div>
   </div>
 
