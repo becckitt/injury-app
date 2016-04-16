@@ -1,16 +1,154 @@
-.body-background {
-  height: 1300px;
-  position: absolute;
-  width: 100%;
-  text-align: center;
+body {
+  margin: 0;
 }
 
-.body-background img {
-  height: 1300px;
+.body-background {
+  height: 10000px;
+  width: 100%;
+  text-align: center;
+
+  background-image: url("../img/man.svg");
+  background-repeat: no-repeat;
+  background-position: center 10px;
+  background-attachment: fixed;
+  background-size: 260px;
+}
+
+.occurrence-circle-container {
+  width: 245px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .occurrence-circle {
+  width: 100%;
+  height: 100%;
   position: relative;
   background-color: rgba(255,0,0,.6); 
   border-radius: 50%;
 }
+
+.abdominal {
+  position: relative;
+  left: 51%;
+  top: 40px;
+}
+
+.achilles {
+  position: relative;
+  left: 47%;
+  top: 100px;
+}
+
+.ankle {
+  position: relative;
+  left: 51%;
+  top: 300px;
+}
+
+.back {
+  position: relative;
+  left: 57%;
+  top: 400px;
+}
+
+.elbow {
+  position: relative;
+  left: 63%;
+  top: 500px;
+}
+
+.eye {
+  position: relative;
+  left: 49%;
+  top: 20px;
+}
+
+.finger {
+  position: relative;
+  left: 61%;
+  top: 600px;
+}
+
+.foot {
+  position: relative;
+  left: 45%;
+  top: 9000px;
+}
+
+.groin {
+  position: relative;
+  left: 52%;
+  top: 5000px;
+}
+
+.hamstring {
+  position: relative;
+  left: 57%;
+  top: 3000px;
+}
+
+.hernia {
+  display: none;
+}
+
+.hip {
+  position: relative;
+  left: 42%;
+  top: 4500px;
+}
+
+.illness {
+  display: none;
+}
+
+.knee {
+  position: relative;
+  left: 33%;
+  top: 8000px;
+  opacity: .3;
+}
+
+.leg {
+  position: relative;
+  left: 50%;
+  top: 7000px;
+}
+
+.neck {
+  position: relative;
+  left: 50%;
+  top: 200px;
+}
+
+.quadricep {
+  position: relative;
+  left: 50%;
+  top: 6000px;
+}
+
+.ribs {
+  position: relative;
+  left: 50%;
+  top: 4050px;
+}
+
+.shoulder {
+  position: relative;
+  left: 50%;
+  top: 40%;
+}
+
+.suspension {
+  position: relative;
+  left: 50%;
+  top: 40%;
+}
+
+.wrist {
+  position: relative;
+  left: 50%;
+  top: 40%;
+}
+
