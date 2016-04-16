@@ -1,0 +1,23 @@
+{
+  "name": "injury-app",
+  "homepage": "https://github.com/becckitt/injury-app",
+  "authors": [
+    "becckitt <hello@beccabarton.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scrollmagic": "^2.0.5",
+    "gsap": "^1.18.2",
+    "jquery": "^2.2.3"
+  }
+}
